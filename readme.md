@@ -387,6 +387,16 @@ npm install cors
 
 2. .
 
+## moment
+
+1. Instalar el packete
+
+```
+npm install moment
+```
+
+2. .
+
 # Estructura de Carpetas
 
 ```
